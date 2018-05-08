@@ -1,0 +1,30 @@
+body{
+	
+}
+
+h1{
+	text-align: center;
+	
+}
+
+h2{
+	color: red;
+}
+h4 {
+	text-align: center;
+}
+
+p {
+	line-height: 20px;
+	font-family: 'Roboto', Georgia;
+	text-align: center;
+}
+li {
+	list-style: none
+}
+
+.container{
+	height: 500px;
+}
+
+
